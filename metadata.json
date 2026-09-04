@@ -1,6 +1,0 @@
-{
-  "name": "SMS Connect",
-  "description": "Aplicación de mensajería SMS nativa con soporte para SIM dual, envío y recepción en tiempo real, gestión de contactos y notificaciones.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
